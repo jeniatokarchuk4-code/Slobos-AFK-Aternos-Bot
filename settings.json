@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "DIDDYsmpII.aternos.me:51647",
+    "port": 51647,
     "version": "",
     "try-creative": false
   },
